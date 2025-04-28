@@ -12,7 +12,7 @@ We're investigating a Safari WebKit bug where streaming downloads through a Serv
 ## Generate Self-Signed Certificates
 
 1. Open a terminal and navigate to the project directory
-2. Get your local IP address.
+2. Get your local IP address & update the variable `localIp` in `https-server.js` with your IP.
 3. Run the following command to generate your certificates:
 
 ```bash
