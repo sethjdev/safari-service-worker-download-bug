@@ -40,7 +40,7 @@ npm run start
     </td>
     <td width="50%">
       <h2>macOS</h2>
-      <p>On macOS the download is complete.</p>
+      <p>On macOS the download completes.</p>
       <img src="./desktop-files.png" alt="Desktop Service Worker Demo" width="100%">
     </td>
   </tr>
