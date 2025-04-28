@@ -34,12 +34,12 @@ npm run start
 <table>
   <tr valign="top">
     <td width="50%">
-      <h2>iOS Version</h2>
+      <h2>iOS</h2>
       <p>On iOS the download is incomplete.</p>
       <img src="./ios-files.png" alt="iOS Service Worker Demo" width="100%">
     </td>
     <td width="50%">
-      <h2>macOS Version</h2>
+      <h2>macOS</h2>
       <p>On macOS the download is complete.</p>
       <img src="./desktop-files.png" alt="Desktop Service Worker Demo" width="100%">
     </td>
